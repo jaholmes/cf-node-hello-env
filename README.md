@@ -21,3 +21,4 @@ You should see output with correct values...
 
     $ cf logs cf-node-hello-env --recent
 
+For more info on cfenv, see https://github.com/cloudfoundry-community/node-cfenv
